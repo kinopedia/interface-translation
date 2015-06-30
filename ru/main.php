@@ -14,6 +14,8 @@ return [
 	'toggle_menu' => 'Показать/скрыть меню',
 
 	'imdb' => 'IMDb',
+	'official_website' => 'Официальный сайт',
+	'website' => 'Сайт',
 	'wikidata' => 'Викиданные',
 	'wikipedia' => 'Википедия',
 

@@ -13,7 +13,16 @@ return [
 	'search' => 'Search',
 	'toggle_menu' => 'Toggle navigation',
 
+	'allmovie' => 'allmovie',
+	'allocine' => 'AlloCiné',
+	'box_office_mojo' => 'Box Office Mojo',
+	'filmaffinity' => 'FilmAffinity',
 	'imdb' => 'IMDb',
+	'metacritic' => 'Metacritic',
+	'official_website' => 'Official website',
+	'port_hu' => 'PORT.hu',
+	'rotten_tomatoes' => 'Rotten Tomatoes',
+	'website' => 'Website',
 	'wikidata' => 'Wikidata',
 	'wikipedia' => 'Wikipedia'
 

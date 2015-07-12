@@ -10,11 +10,14 @@ return [
 
 	'choose_language' => 'Choose your language',
 	'edit' => 'Edit',
+	'followed by' => 'Followed by',
+	'follows' => 'Follows',
 	'search' => 'Search',
 	'toggle_menu' => 'Toggle navigation',
 
 	'allmovie' => 'allmovie',
 	'allocine' => 'AlloCiné',
+	'animator_ru' => 'Animator.ru',
 	'box_office_mojo' => 'Box Office Mojo',
 	'filmaffinity' => 'FilmAffinity',
 	'imdb' => 'IMDb',

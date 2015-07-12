@@ -2,6 +2,9 @@
 
 return [
 
+	'born' => 'born',
+	'died' => 'died',
+
 	'filmography' => 'Filmography',
 
 	'actor' => 'Actor',

@@ -14,6 +14,7 @@ return [
 	'voice_actor' => '{1} Voice actor|[2,Inf] Voice actors',
 	'writer' => '{1} Writer|[2,Inf] Writers',
 
+	'genre' => '{1} Genre|[2,Inf] Genres',
 	'language' => '{1} Language|[2,Inf] Languages',
 	'role' => '{1} Role|[2,Inf] Roles',
 

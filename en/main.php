@@ -22,6 +22,7 @@ return [
 	'filmaffinity' => 'FilmAffinity',
 	'imdb' => 'IMDb',
 	'metacritic' => 'Metacritic',
+	'moviemeter' => 'MovieMeter.nl',
 	'official_website' => 'Official website',
 	'port_hu' => 'PORT.hu',
 	'rotten_tomatoes' => 'Rotten Tomatoes',

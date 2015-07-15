@@ -19,6 +19,7 @@ return [
 	'allocine' => 'AlloCiné',
 	'animator_ru' => 'Animator.ru',
 	'box_office_mojo' => 'Box Office Mojo',
+	'danish_national_filmography' => 'Danish National Filmography',
 	'filmaffinity' => 'FilmAffinity',
 	'imdb' => 'IMDb',
 	'metacritic' => 'Metacritic',

@@ -8,6 +8,7 @@ return [
 	'filmography' => 'Filmography',
 
 	'actor' => 'Actor',
+	'choreographer' => 'Choreographer',
 	'composer' => 'Composer',
 	'creator' => 'Creator',
 	'director' => 'Director',

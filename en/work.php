@@ -3,6 +3,7 @@
 return [
 
 	'cast' => 'Cast',
+	'choreographer' => '{1} Choreographer|[2,Inf] Choreographers',
 	'composer' => '{1} Composer|[2,Inf] Composers',
 	'creator' => '{1} Creator|[2,Inf] Creators',
 	'director' => '{1} Director|[2,Inf] Directors',

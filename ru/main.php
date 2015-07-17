@@ -15,12 +15,4 @@ return [
 	'search' => 'Найти',
 	'toggle_menu' => 'Показать/скрыть меню',
 
-	'animator_ru' => 'Аниматор.ru',
-	'danish_national_filmography' => 'Датская национальная фильмография',
-	'imdb' => 'IMDb',
-	'official_website' => 'Официальный сайт',
-	'website' => 'Сайт',
-	'wikidata' => 'Викиданные',
-	'wikipedia' => 'Википедия',
-
 ];

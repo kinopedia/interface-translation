@@ -14,6 +14,7 @@ return [
 	'director' => 'Режиссёр',
 	'operator' => 'Оператор',
 	'producer' => 'Продюсер',
+	'voice_actor' => 'Актёр озвучивания',
 	'writer' => 'Сценарист',
 
 	'language' => '{1} Язык|[2,Inf] Языки',

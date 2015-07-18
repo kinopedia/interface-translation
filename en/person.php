@@ -14,6 +14,7 @@ return [
 	'director' => 'Director',
 	'operator' => 'Operator',
 	'producer' => 'Producer',
+	'voice_actor' => 'Voice actor',
 	'writer' => 'Writer',
 
 	'language' => '{1} Language|[2,Inf] Languages',

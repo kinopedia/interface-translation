@@ -12,6 +12,7 @@ return [
 	'composer' => 'Composer',
 	'creator' => 'Creator',
 	'director' => 'Director',
+	'executive_producer' => 'Executive producer',
 	'operator' => 'Operator',
 	'producer' => 'Producer',
 	'voice_actor' => 'Voice actor',

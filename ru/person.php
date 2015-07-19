@@ -12,6 +12,7 @@ return [
 	'composer' => 'Композитор',
 	'creator' => 'Создатель',
 	'director' => 'Режиссёр',
+	'executive_producer' => 'Исполнительный продюсер',
 	'operator' => 'Оператор',
 	'producer' => 'Продюсер',
 	'voice_actor' => 'Актёр озвучивания',

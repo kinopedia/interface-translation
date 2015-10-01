@@ -18,8 +18,6 @@ return [
 	'voice_actor' => 'Voice actor',
 	'writer' => 'Writer',
 
-	'as_character' => 'As character',
-
 	'language' => '{1} Language|[2,Inf] Languages',
 	'role' => '{1} Role|[2,Inf] Roles',
 

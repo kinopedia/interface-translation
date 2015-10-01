@@ -8,4 +8,6 @@ return [
 	'performer' => '{1} Performer|[2,Inf] Performers',
 	'voice_actor' => '{1} Voice actor|[2,Inf] Voice actors',
 
+	'as_character' => 'As character',
+
 ];

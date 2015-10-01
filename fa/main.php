@@ -2,17 +2,15 @@
 
 return [
 
-    'site_name' => 'Кинопедия',
+	'characters' => 'شخصیت',
+	'movies' => 'فیلم',
+	'people' => 'کاربران',
 
-	'characters' => 'Персонажи',
-	'movies' => 'Фильмы',
-	'people' => 'Люди',
-
-    'choose_language' => 'Выберите язык',
-	'edit' => 'править',
-	'followed_by' => 'Следующее',
-	'follows' => 'Предыдущее',
-	'search' => 'Найти',
-	'toggle_menu' => 'Показать/скрыть меню',
+    'choose_language' => 'زبان خود را انتخاب',
+	'edit' => 'قانون',
+	'followed_by' => 'به شرح زیر است',
+	'follows' => 'قبلی',
+	'search' => 'یافتن',
+	'toggle_menu' => 'نمایش / مخفی کردن منوی',
 
 ];

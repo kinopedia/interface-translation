@@ -6,6 +6,7 @@ return [
 	'allocine' => 'AlloCiné',
 	'animator' => 'Animator.ru',
 	'boxofficemojo' => 'Box Office Mojo',
+	'commons' => 'Wikimedia Commons',
 	'dfi' => 'Danish National Filmography',
 	'filmaffinity' => 'FilmAffinity',
 	'imdb' => 'IMDb',

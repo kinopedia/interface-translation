@@ -1,0 +1,12 @@
+{
+    "name": "kinopedia/interface-translation",
+    "description": "Kinopedia.org interface translation.",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Sergey Leschina",
+            "email": "mail@putnik.ws"
+        }
+    ],
+    "require": {}
+}

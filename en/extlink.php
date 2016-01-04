@@ -10,6 +10,7 @@ return [
 	'dfi' => 'Danish National Filmography',
 	'filmaffinity' => 'FilmAffinity',
 	'imdb' => 'IMDb',
+	'jmdb' => 'JMDb',
 	'metacritic' => 'Metacritic',
 	'moviemeter' => 'MovieMeter.nl',
 	'official_website' => 'Official website',

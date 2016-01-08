@@ -13,6 +13,7 @@ return [
 	'jmdb' => 'JMDb',
 	'metacritic' => 'Metacritic',
 	'moviemeter' => 'MovieMeter.nl',
+	'netflix' => 'Netflix',
 	'official_website' => 'Official website',
 	'port' => 'PORT.hu',
 	'rottentomatoes' => 'Rotten Tomatoes',

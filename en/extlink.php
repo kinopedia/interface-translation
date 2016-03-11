@@ -11,6 +11,7 @@ return [
 	'filmaffinity' => 'FilmAffinity',
 	'imdb' => 'IMDb',
 	'jmdb' => 'JMDb',
+    'kinopoisk' => 'KinoPoisk',
 	'metacritic' => 'Metacritic',
 	'moviemeter' => 'MovieMeter.nl',
 	'netflix' => 'Netflix',
